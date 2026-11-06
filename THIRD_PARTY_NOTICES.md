@@ -11,8 +11,6 @@ AmooVPN's proprietary license does not replace, override, or restrict the licens
 - **Repository:** https://github.com/SagerNet/sing-box
 - **License:** GNU General Public License v3.0 or later (GPL-3.0-or-later)
 - **License file:** `licenses/sing-box-GPL-3.0.txt`
-- **Version:** [INSERT EXACT DISTRIBUTED VERSION]
-- **Corresponding source:** [INSERT EXACT SOURCE ARCHIVE URL FOR THE DISTRIBUTED BINARY]
 
 AmooVPN uses sing-box as a separate executable for network proxy and VPN functionality.
 
