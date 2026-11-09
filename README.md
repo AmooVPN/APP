@@ -8,13 +8,14 @@ This repository provides compiled application releases, version information, che
 
 ## Download
 
-**Latest release:** [AmooVPN v2.0.0](https://github.com/AmooVPN/APP/releases/tag/v2.0.0)
+**Latest release:** [AmooVPN](https://github.com/AmooVPN/APP/releases/)
 
 | Platform | Package | Download |
 |---|---|---|
-| Windows x64 | ZIP | [Download for Windows](https://github.com/AmooVPN/APP/releases/download/v2.0.0/AmooVPN-windows-amd64.zip) |
-| Linux x86_64 | ZIP | [Download for Linux](https://github.com/AmooVPN/APP/releases/download/v2.0.0/AmooVPN-linux-amd64.zip) |
-| Linux x86_64 | 7z | [Alternative Linux archive](https://github.com/AmooVPN/APP/releases/download/v2.0.0/AmooVPN-linux-amd64.7z) |
+| Windows x64 | ZIP | [Download for Windows](https://github.com/AmooVPN/APP/releases/latest/download/AmooVPN-windows-amd64.zip) |
+| Windows x64 | 7z | [Alternative Windows archive](https://github.com/AmooVPN/APP/releases/latest/download/AmooVPN-windows-amd64.7z) |
+| Linux x86_64 | ZIP | [Download for Linux](https://github.com/AmooVPN/APP/releases/latest/download/AmooVPN-linux-amd64.zip) |
+| Linux x86_64 | 7z | [Alternative Linux archive](https://github.com/AmooVPN/APP/releases/latest/download/AmooVPN-linux-amd64.7z) |
 
 [View all releases](https://github.com/AmooVPN/APP/releases)
 
